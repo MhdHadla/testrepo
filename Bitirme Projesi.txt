@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Star Fram</title>
+<style>
+a:link {color:green;backgound-color:White;padding:55px 55px;display:inline-block}
+a:visited {color:blue;backgound-color:purple}
+a:hover {color:yellow;backgound-color:grey}
+a:active {color:orange}
+body {background-color:Snow;}
+h2 {color:Limegreen;}
+p {color:black;margin:10px}
+table, th, td {
+border: 2px solid black;
+}
+</style>
+</head>
+<body>
+
+<img src="https://www.savills.co.uk/_images/buying-or-selling-a-farm.jpg" width="700" height="277" alt="Star Farm">
+<h1 style="font-size:500%;text-align:center;background-color:Darkcyan;color:White">Star Farm</h1>
+<h2 style="font-size:300%;border: 6px solid SkyBlue">Who are we?</h2>
+<p><b> Star Farm was established in 1975 to contribute to supporting global food security. </b></p>
+<p><i> The farm produces many products that we take the utmost care to be the best on the market. </i></p>
+<p> Farm products include    <sup>vegetables, fruits</sup> and <sub>animal products</sub> </p>
+<p> In order to enter the farm, you <mark>must</mark> purchase an entry card <strong>at the farm gate.</strong></p>
+<p><em> The farm allows local residents to visit it in order to spend a whole day there and enjoy nature. </em></p>
+<p><small> **You can stay on the farm as long as you wish</small></p>
+<p> We do not sell   <del>pork</del> products because  <ins>we don't have it.</ins> </p>
+<p><q> You can also buy farm products from its internal market.</q></p>
+<blockqoute cite="https://www.fao.org/world-agriculture-watch/tools-and-methodologies/definitions-and-operational-perspectives/family-farms/ar/">
+A family farm is an agricultural holding which is managed and operated by a household and where farm labour is largely supplied by that household.”
+</blockqoute>
+<p> <abbr title="Star Farm">SF</abbr> is encouraging you to visit it</p>
+<p> You can reach the farm either by your own car or by taxi</p>
+<address>
+St.Jones <br>
+Calgary<br>
+Alberta<br>
+Canada<br>
+</address>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAnuMribiR-AsQxurxhkcdH8O5hK5Lep16og&usqp=CAU" width="700" height="277" alt="Entrance">
+<p><cite>Farm Entrance</cite> Taken in 2006<p/>
+<bdo dir="rtl">you can read this line from right to left</bdo>
+<!-- This is not imporant link just for information-->
+<h1> Our Products </h1>
+<p style="background-color:rgb(244,99,71);"> Apple </p>
+<p style="background-color:#ff5547;"> Potatoes </p>
+<p style="background-color:hsl(9,100%,55%);">Apricots </p>
+<p style="background-color:rgb(244,99,71,0.4);">Milk </p>
+<p style="background-color:hsla(9,100%,55%,0.3);"> Cheese </p>
+<p> Butter </p>
+<h1> Other Products </h1>
+<p style="border:2px solid red;padding:30px">Peaches</p>
+<p style="border:2px solid red">Dairy</p>
+<p style="border:2px solid red">Onion</p>
+<p> You can visit this website </p>
+<p><a href="https://thevillageguruflorida.com/neighborhoods/lakewood-ranch/star-farms/"target="_blank"title="Click here">Star Farm</a></p>
+<p> or click below: </p>
+<a href="https://thevillageguruflorida.com/neighborhoods/lakewood-ranch/star-farms/"><img src="smiley.gif" alt="Star Farm"></a><br>
+<button><p><a href="https://thevillageguruflorida.com/neighborhoods/lakewood-ranch/star-farms/">or click here</a></p></button>
+
+<p> The countries which we supply by our products by continent: </p>
+<table style="width:100%">
+   <tr>
+      <th>Europe</th>
+      <th>Asia</th>
+      <th>America</th>
+   </tr>
+   <tr>
+      <th>France</th>
+      <th>Iraq</th>
+      <th>Mexico</th>
+   </tr>
+   <tr>
+      <th>Germany</th>
+      <th>Syria</th>
+      <th>Jamaica</th>
+   </tr>
+</table>
+<p><a href="mailto:mhdhadla1@gmail.com">For more information contact us</a></p>
+</body>
+</html>
+
